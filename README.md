@@ -1,6 +1,6 @@
 # openbmc-raspberrypi
 
-## How to build and flash raspberrypi image
+## How to build openbmc for raspberry pi
 
 1. git clone [https://gitlab.com/vertiv-co/its/developers/tommychen2/openbmc-raspberrypi.git](https://github.com/tommy0311/openbmc-raspberrypi.git)
 2. cd openbmc-raspberrypi
