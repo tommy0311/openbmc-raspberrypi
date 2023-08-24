@@ -56,6 +56,7 @@ local_conf_header:
         ABORT,/tmp,10M,1K"
   distro: |
     DISTRO_FEATURES_append = " virtualization"
+    LICENSE_FLAGS_ACCEPTED = "synaptics-killswitch"
   image: |
     IMAGE_FSTYPES_append = " rpi-sdimg"
     IMAGE_INSTALL_append = " docker webui-vue"
